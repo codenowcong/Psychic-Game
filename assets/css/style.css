@@ -1,0 +1,35 @@
+.display-4 {
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+
+.jumbotron {
+    margin: 50px;
+    border: solid 1px black;
+    background-color: violet;
+    opacity: 0.85;
+
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 20px;
+}
+.instruct {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.lead {
+    color: purple;
+}
+
+p {
+    text-align: center;
+}
+
+#stats {
+    line-height: 30px;
+    text-align: center;
+}
