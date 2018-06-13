@@ -37,8 +37,6 @@ var playerSelected = [];
                 playerSelected = [];
                 alert("You're out of Guesses! Click OK to try again.");
                 
-                losses ++;
-                playerSelected = [];
             }   
         
         //appending to html page
